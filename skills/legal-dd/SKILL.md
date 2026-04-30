@@ -51,7 +51,6 @@ version: 1.0
 ### 板块 7: 劳动人事
 - `get_company_scale` — 参保人数 / 规模
 - `get_recruitment_info` — 招聘动态
-- `get_disciplinary_list` — 劳动监察
 
 ### 板块 8: 债权债务
 - `get_equity_pledge_info` — 股权出质
