@@ -9,3 +9,4 @@
 - 标准 Claude Code 插件结构（plugin.json + skills/ + commands/）
 - bash 一键脚本支持 curl 模式与本地模式
 
+
