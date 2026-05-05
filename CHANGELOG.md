@@ -8,3 +8,4 @@
 - 依托公网 TYC MCP endpoint（`https://mcp.tianyancha.com/v1`）
 - 标准 Claude Code 插件结构（plugin.json + skills/ + commands/）
 - bash 一键脚本支持 curl 模式与本地模式
+
